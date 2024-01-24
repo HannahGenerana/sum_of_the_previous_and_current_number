@@ -13,7 +13,8 @@ for current_number in range (0,11):
 
 # add the current and previous number
     total_sum = previous_number + current_number
-    
+
 # print the list of current number, previous number, and their sum
+    print (f"Current number : {current_number} Sum : {total_sum}")
 
 # change the value of previous number to current number
